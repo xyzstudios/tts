@@ -2,5 +2,7 @@
   background-color: #000000;
   color: #ffffff;
   font-family: Arial;
-  text-align: center;
+}
+body {
+   text-align: center;
 }
