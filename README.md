@@ -1,5 +1,5 @@
 # Through The Shadows
-## Unity game by xyzstudios
+## Unity game by project.xyz
 
 ## Realase dates
 | Platform | Stable        | Beta          |
