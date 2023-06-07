@@ -6,6 +6,9 @@
   display: inline-block;
   position: relative;
 }
+table	{
+   text-align: center;
+}
 @keyframes discordbutton {
   100% {box-shadow: 0 5px 15px #7289da;]
 }
