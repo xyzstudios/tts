@@ -6,3 +6,24 @@
   display: inline-block;
   position: relative;
 }
+@keyframes discordbutton {
+  100% {box-shadow: 0 5px 15px #7289da;]
+}
+.discord-btn {
+	background-color:#4e5d94;
+	border-radius:0px;
+	border:1px solid #000000;
+	display:inline-block;
+	cursor:crosshair;
+	color:#ffffff;
+	font-family:Trebuchet MS;
+	font-size:17px;
+	font-weight:bold;
+	padding:11px 39px;
+	text-decoration:none;
+	text-shadow:1px 3px 0px #001e6b;
+}
+.discord-btn:hover {
+	background-color:#7289da;
+  animation-name: discordbutton;
+}
